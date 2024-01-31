@@ -52,9 +52,6 @@ This task is designed to assess your capability to create a dynamic and responsi
 - Provide a live demo on platforms like Vercel or Netlify.
 - Include documentation for local setup and operation.
 
-## Deadline
-
-- You have 5 days from the receipt of this task to submit your work.
 
 Please ensure your code is clean, well-commented, and adheres to best practices.
 
